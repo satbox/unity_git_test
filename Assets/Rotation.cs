@@ -7,6 +7,7 @@ public class Rotation : MonoBehaviour {
 
 		// conflict test
 		// okay
+		// ng
 	}
 
 	void Start () {
