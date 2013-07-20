@@ -10,6 +10,7 @@ public class Rotation : MonoBehaviour {
 
 	void Start () {
 	
+		// start
 	}
 	
 	void Update () {
