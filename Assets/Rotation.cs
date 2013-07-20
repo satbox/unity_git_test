@@ -6,6 +6,7 @@ public class Rotation : MonoBehaviour {
 	void Awake () {
 
 		// conflict test
+		// okay
 	}
 
 	void Start () {
