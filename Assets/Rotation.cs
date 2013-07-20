@@ -3,6 +3,10 @@ using System.Collections;
 
 public class Rotation : MonoBehaviour {
 
+	void Awake () {
+
+	}
+
 	void Start () {
 	
 	}
